@@ -1,7 +1,17 @@
-header {
-background-color:beige;
+.cabecalho{
+background-color: brown;
+color: chocolate;
+text-align: center;
+margin:0 auto;
+max-width: 800px;
+padding:16px;
 }
-main{
-background-color: antiquewhite;
-color: black;
+.principal{
+background-color: chocolate;
+color: brown;
+}
+.principal-imagem{
+    /*dimensões da imagem:largura e a altura 300 pixels*/
+    width: 300px;
+    height: 300px;
 }
