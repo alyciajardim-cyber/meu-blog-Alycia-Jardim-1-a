@@ -1,14 +1,14 @@
 .cabecalho{
-background-color: brown;
-color: chocolate;
+background-color: rgb(27, 92, 8);
+color: rgb(29, 9, 1);
 text-align: center;
 margin:0 auto;
 max-width: 800px;
 padding:16px;
 }
 .principal{
-background-color: chocolate;
-color: brown;
+background-color: rgb(15, 5, 1);
+color: rgb(21, 90, 30);
 }
 .principal-imagem{
     /*dimensões da imagem:largura e a altura 300 pixels*/
